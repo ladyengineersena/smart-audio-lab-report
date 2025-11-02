@@ -1,5 +1,7 @@
 # 🔊 SmartAudioLabReport
 
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 **Görme Engelliler için Klinik Sesli Sonuç Yorumlama Sistemi**
 
 SmartAudioLabReport, laboratuvar raporlarını PDF formatından okuyup analiz eden ve sonuçları sesli olarak yorumlayan bir erişilebilirlik aracıdır. Sistem, laboratuvar sonuçlarını referans aralıklarıyla karşılaştırarak anlaşılır Türkçe özetler üretir.
@@ -155,7 +157,9 @@ Katkılarınız memnuniyetle karşılanır! Lütfen:
 
 ## 📝 Lisans
 
-Bu proje Apache 2.0 lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
+Bu proje **Apache License 2.0** altında lisanslanmıştır.
+
+Detaylar için [LICENSE](LICENSE) dosyasına bakın veya [Apache 2.0 Lisans metnini](https://www.apache.org/licenses/LICENSE-2.0) inceleyin.
 
 **Apache 2.0 Özellikleri:**
 - ✅ Yeniden kullanım serbest
