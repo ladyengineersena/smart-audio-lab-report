@@ -1,0 +1,24 @@
+# SmartAudioLabReport - Gereksinimler
+
+# PDF İşleme
+PyPDF2>=3.0.0
+pdfminer.six>=20221105
+
+# Metin İşleme ve NLP
+transformers>=4.30.0
+torch>=2.0.0
+sentencepiece>=0.1.99
+
+# Ses Sentezi
+pyttsx3>=2.90
+gTTS>=2.3.0
+
+# Web Arayüzü
+streamlit>=1.28.0
+
+# Veri İşleme
+pandas>=2.0.0
+
+# Diğer
+pathlib2>=2.3.7; python_version < '3.4'
+

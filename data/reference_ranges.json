@@ -1,0 +1,122 @@
+{
+  "hemoglobin": {
+    "min": 12.0,
+    "max": 16.0,
+    "unit": "g/dL",
+    "gender_specific": true,
+    "male": {
+      "min": 13.5,
+      "max": 17.5,
+      "unit": "g/dL"
+    },
+    "female": {
+      "min": 12.0,
+      "max": 15.5,
+      "unit": "g/dL"
+    }
+  },
+  "hematocrit": {
+    "min": 36.0,
+    "max": 46.0,
+    "unit": "%",
+    "gender_specific": true,
+    "male": {
+      "min": 40.0,
+      "max": 50.0,
+      "unit": "%"
+    },
+    "female": {
+      "min": 36.0,
+      "max": 46.0,
+      "unit": "%"
+    }
+  },
+  "wbc": {
+    "min": 4.0,
+    "max": 10.0,
+    "unit": "x10^9/L",
+    "gender_specific": false
+  },
+  "rbc": {
+    "min": 4.5,
+    "max": 5.5,
+    "unit": "x10^12/L",
+    "gender_specific": true,
+    "male": {
+      "min": 4.5,
+      "max": 6.0,
+      "unit": "x10^12/L"
+    },
+    "female": {
+      "min": 4.0,
+      "max": 5.2,
+      "unit": "x10^12/L"
+    }
+  },
+  "platelet": {
+    "min": 150,
+    "max": 400,
+    "unit": "x10^9/L",
+    "gender_specific": false
+  },
+  "glucose": {
+    "min": 70,
+    "max": 100,
+    "unit": "mg/dL",
+    "gender_specific": false,
+    "note": "Açlık kan şekeri için referans aralığı"
+  },
+  "cholesterol": {
+    "min": 0,
+    "max": 200,
+    "unit": "mg/dL",
+    "gender_specific": false,
+    "note": "Toplam kolesterol için ideal değer <200 mg/dL"
+  },
+  "triglyceride": {
+    "min": 0,
+    "max": 150,
+    "unit": "mg/dL",
+    "gender_specific": false,
+    "note": "Normal değer <150 mg/dL"
+  },
+  "creatinine": {
+    "min": 0.6,
+    "max": 1.2,
+    "unit": "mg/dL",
+    "gender_specific": true,
+    "male": {
+      "min": 0.7,
+      "max": 1.3,
+      "unit": "mg/dL"
+    },
+    "female": {
+      "min": 0.6,
+      "max": 1.1,
+      "unit": "mg/dL"
+    }
+  },
+  "alt": {
+    "min": 0,
+    "max": 41,
+    "unit": "U/L",
+    "gender_specific": true,
+    "male": {
+      "min": 0,
+      "max": 41,
+      "unit": "U/L"
+    },
+    "female": {
+      "min": 0,
+      "max": 33,
+      "unit": "U/L"
+    }
+  },
+  "ast": {
+    "min": 0,
+    "max": 40,
+    "unit": "U/L",
+    "gender_specific": false
+  }
+}
+
